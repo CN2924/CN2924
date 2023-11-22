@@ -62,36 +62,7 @@
 [![My Skills:](https://skillicons.dev/icons?i=aws,azure,&theme=dark&perline=3)](https://skillicons.dev)
 
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html15/html15-original-wordmark.svg" title="html" alt="html" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="css" alt="css" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="c" alt="c" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c++/c++-original.svg" title="c++" alt="c++" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="java" alt="java " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/py/py-plain-wordmark.svg"  title="python" alt="python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" title="pytorch" **alt="pytorch" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original-wordmark.svg" title="R" **alt="R" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original-wordmark.svg" title="Django" **alt="Django" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/discord/discord-original-wordmark.svg" title="Discord" **alt="Discord" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/eclipse/eclipse-original-wordmark.svg" title="Eclipse" **alt="Eclipse" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original-wordmark.svg" title="firebase" **alt="firebase" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" **alt="Github" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original-wordmark.svg" title="Githubactions" **alt="Githubactions" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gitlabs/gitlabs-original-wordmark.svg" title="Gitlabs" **alt="Gitlabs" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original-wordmark.svg" title="matlab" **alt="matlab" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="mysql" **alt="mysql" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="sqlite" **alt="sqlite" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original-wordmark.svg" title="visualstudio" **alt="visualstudio" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" **alt="vscode" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/idea/idea-original-wordmark.svg" title="idea" **alt="idea" width="40" height="40"/>
 
-</div>
 
 
 
