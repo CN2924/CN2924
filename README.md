@@ -1,6 +1,11 @@
 ### Hi there 👋
 
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=D08628E3&center=true&vCenter=true&random=false&width=303&height=45&lines=%22Only+those+who+dare+to+fail+greatly+can+ever+achieve+greatly.%22;-By+Robert+F.+Kennedy)](https://git.io/typing-svg)
+
+
+
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=05780F&random=false&width=450&height=55&lines=It's+me+%22Chitransh+Dixit%22.)](https://git.io/typing-svg)
 
 
