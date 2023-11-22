@@ -34,6 +34,10 @@
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=786A73&random=false&width=333&height=45&lines=Social+Links%3A)](https://git.io/typing-svg)
+
+
+
+
 [![Social:](https://skillicons.dev/icons?i=linkedin,&theme=dark&perline=1)](https://skillicons.dev)
 
 
