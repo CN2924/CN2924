@@ -10,7 +10,7 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,c,c++,java,py,r,django,figma&theme=dark&perline=5)](https://skillicons.dev)
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,c++,java,py,pytorch,r,django,discord,eclipse,firebase,git,github,githubactions,gitlabs,matlab,mysql,sqlite,visualstudio,vscode,idea,figma&theme=dark&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=pytorch,discord,eclipse,firebase,git,github,githubactions,gitlabs,matlab,mysql,sqlite,visualstudio,vscode,idea,figma&theme=dark&perline=5)](https://skillicons.dev)
 
 
 
