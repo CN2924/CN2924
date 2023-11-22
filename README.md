@@ -2,15 +2,7 @@
 
 
 
-
-
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=D08628E3&center=true&vCenter=true&random=false&width=303&height=45&lines=%22Only+those+who+dare+to+fail+greatly+can+ever+achieve+greatly.%22;-By+Robert+F.+Kennedy)](https://git.io/typing-svg)
-
-
-
-
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=D08628E3&random=false&width=330&height=35&lines=%22Only+those+who+dare+to+fail;greatly+can+ever+achieve+;greatly.%22)](https://git.io/typing-svg)
 
 
 
