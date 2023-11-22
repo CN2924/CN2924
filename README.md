@@ -41,6 +41,17 @@
 [![Social:](https://skillicons.dev/icons?i=linkedin,&theme=dark&perline=1)](https://skillicons.dev)
 
 
+
+![](https://visitor-badge.laobi.icu/badge?page_id=CN2924.CN2924)
+
+[![Github](https://img.shields.io/github/followers/CN2924?label=Follow&style=social)](https://github.com/CN2924)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=CN2924&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CN2924&theme=tokyonight)
+
+
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
