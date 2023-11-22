@@ -28,11 +28,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=784A29&random=false&width=141&height=45&lines=My+Skills%3A)](https://git.io/typing-svg)
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,c,c++,java,py,r,django,git,github,githubactions,gitlabs,visualstudio,vscode,idea,matlab,firebase,mysql,sqlite,discord,pytorch,eclipse,aws,azure" />
-  </a>
-</p>
+
 
 [![My Skills:](https://skillicons.dev/icons?i=js,html,css,c,c++,java,py,r,django,&theme=dark&perline=4)](https://skillicons.dev)
 
@@ -88,9 +84,5 @@
 
 [![Social:](https://skillicons.dev/icons?i=linkedin,&theme=dark&perline=1)](https://skillicons.dev)
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-</p>
+
 
