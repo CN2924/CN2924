@@ -32,27 +32,47 @@
 
 [![My Skills:](https://skillicons.dev/icons?i=js,html,css,c,c++,java,py,r,django,&theme=dark&perline=4)](https://skillicons.dev)
 
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,c,c++,java,py,r,djangoe" />
+  </a>
+</p>
 
 
 [![My Skills:](https://skillicons.dev/icons?i=git,github,githubactions,gitlabs,&theme=dark&perline=2)](https://skillicons.dev)
 
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,githubactions,gitlabs" />
+  </a>
+</p>
 
 
 [![My Skills:](https://skillicons.dev/icons?i=visualstudio,vscode,idea,matlab,firebase,&theme=dark&perline=5)](https://skillicons.dev)
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,sqlite,discord,pytorch,eclipse,firebase" />
+  </a>
+</p>
 
 
+[![My Skills:](https://skillicons.dev/icons?i=mysql,sqlite,discord,pytorch,eclipse,&theme=dark&perline=3)](https://skillicons.dev)
 
-[![My Skills:](https://skillicons.dev/icons?i=mysql,sqlite,discord,pytorch,eclipse,firebase,&theme=dark&perline=3)](https://skillicons.dev)
-
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,sqlite,discord,pytorch,eclipse" />
+  </a>
+</p>
 
 
 [![My Skills:](https://skillicons.dev/icons?i=aws,azure,&theme=dark&perline=3)](https://skillicons.dev)
 
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,azure" />
+  </a>
+</p>
 
 
 
@@ -79,14 +99,18 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=786A73&random=false&width=333&height=45&lines=Social+Links%3A)](https://git.io/typing-svg)
 
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=Social+Links" />
+  </a>
+</p>
 
 
 [![Social:](https://skillicons.dev/icons?i=linkedin,&theme=dark&perline=1)](https://skillicons.dev)
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,c,c++,java,py,pytorch,r,django,discord,eclipse,firebase,git,github,githubactions,gitlabs,matlab,mysql,sqlite,visualstudio,vscode,idea,linkedin" />
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
 
