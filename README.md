@@ -32,6 +32,10 @@
 
 
 
+[![My Skills:](https://skillicons.dev/icons?i=aws,azure,&theme=dark&perline=3)](https://skillicons.dev)
+
+
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=786A73&random=false&width=333&height=45&lines=Social+Links%3A)](https://git.io/typing-svg)
 
