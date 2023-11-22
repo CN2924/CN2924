@@ -82,7 +82,8 @@
 
 
 
-[![Social:](https://skillicons.dev/icons?i=linkedin,&theme=dark&perline=1)](https://skillicons.dev)
 
+
+[![Social:](https://img.shields.io/badge/LinkedIn-blue?logo=https://www.linkedin.com/in/chitransh-dixit-2414s/&logoColor=white&style=for-the-badge)
 
 
