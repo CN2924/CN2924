@@ -1,11 +1,25 @@
 ### Hi there 👋
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=18&pause=1000&color=D08628E3&random=false&width=330&height=35&lines=%22Only+those+who+dare+to+fail;greatly+can+ever+achieve+;greatly.%22)](https://git.io/typing-svg)
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=18&pause=1000&color=09109CE3&random=false&width=330&height=35&lines=%22Only+those+who+dare+to+fail)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=18&pause=1000&color=09109CE3&random=false&width=330&height=35&lines=greatly+can+ever+achieve)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=18&pause=1000&color=09109CE3&random=false&width=330&height=35&lines=greatly%22.)](https://git.io/typing-svg)
+
+
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=18&pause=1000&color=6EC8D0E3&random=false&width=330&height=35&lines=-By+Robert+F.+Kennedy)](https://git.io/typing-svg)
 
+
+
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=05780F&random=false&width=450&height=55&lines=It's+me+%22Chitransh+Dixit%22.)](https://git.io/typing-svg)
+
+
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6506A7&random=false&width=450&height=55&lines=AN+ASPIRING+DATA+ANALYST)](https://git.io/typing-svg)
