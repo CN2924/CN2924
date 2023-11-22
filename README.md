@@ -9,7 +9,7 @@
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,c++,java,py,pytorch,r,django)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,c++,java,py,pytorch,r,django,discord,eclipse,firebase,git,github,githubactions,gitlabs,matlab,mysql,sqlite,visualstudio,vscode,idea,)](https://skillicons.dev)
 
 
 <p align="center">
@@ -18,7 +18,7 @@
   </a>
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,c++,java,py,pytorch,r,django,figma&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,c++,java,py,pytorch,r,django,discord,eclipse,firebase,git,github,githubactions,gitlabs,matlab,mysql,sqlite,visualstudio,vscode,idea,figma&theme=dark)](https://skillicons.dev)
 
 
 <p align="center">
@@ -27,7 +27,7 @@
   </a>
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,c++,java,py,pytorch,r,django&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,c++,java,py,pytorch,r,django,discord,eclipse,firebase,git,github,githubactions,gitlabs,matlab,mysql,sqlite,visualstudio,vscode,idea,&perline=3)](https://skillicons.dev)
 
 
 <p align="center">
