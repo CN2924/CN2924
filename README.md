@@ -9,25 +9,10 @@
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,c++,java,py,pytorch,r,django,discord,eclipse,firebase,git,github,githubactions,gitlabs,matlab,mysql,sqlite,visualstudio,vscode,idea,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,c++,java,py,pytorch,r,django,discord,eclipse,firebase,git,github,githubactions,gitlabs,matlab,mysql,sqlite,visualstudio,vscode,idea,figma&theme=dark&perline=5)](https://skillicons.dev)
 
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-  </a>
-</p>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,c++,java,py,pytorch,r,django,discord,eclipse,firebase,git,github,githubactions,gitlabs,matlab,mysql,sqlite,visualstudio,vscode,idea,figma&theme=dark)](https://skillicons.dev)
-
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-  </a>
-</p>
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,c++,java,py,pytorch,r,django,discord,eclipse,firebase,git,github,githubactions,gitlabs,matlab,mysql,sqlite,visualstudio,vscode,idea,&perline=3)](https://skillicons.dev)
 
 
 <p align="center">
