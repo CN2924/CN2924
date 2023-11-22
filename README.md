@@ -84,6 +84,6 @@
 
 
 
-[![Social:](https://img.shields.io/badge/LinkedIn-blue?logo=https://www.linkedin.com/in/chitransh-dixit-2414s/&logoColor=white&style=for-the-badge)
+![Social:](https://img.shields.io/badge/LinkedIn-blue?logo=https://www.linkedin.com/in/chitransh-dixit-2414s/&logoColor=white&style=for-the-badge)
 
 
