@@ -73,17 +73,14 @@
 
 ### :fire: My Stats :
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=CN2924&show_icons=true&theme=tokyonight)
-![GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=CN2924)
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CN2924&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=CN2924.CN2924)
 
 ![Profle views](https://komarev.com/ghpvc/?username=CN2924)
-<div>
-id="badges"
 
-<img src="https://komarev.com/ghpvc/?username=CN2924&style=flat-square&color=blue" alt=""/>
 
 
 [![Github](https://img.shields.io/github/followers/CN2924?label=Follow&style=social)](https://github.com/CN2924)
