@@ -55,24 +55,30 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=786A73&random=false&width=333&height=45&lines=Social+Links%3A)](https://git.io/typing-svg)
 
 
-
-
-[![Social:](https://skillicons.dev/icons?i=linkedin,&theme=dark&perline=1)](https://skillicons.dev)
-
-
-
-![](https://visitor-badge.laobi.icu/badge?page_id=CN2924.CN2924)
-
-[![Github](https://img.shields.io/github/followers/CN2924?label=Follow&style=social)](https://github.com/CN2924)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=CN2924&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CN2924&theme=tokyonight)
 
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=CN2924&show_icons=true&theme=tokyonight)
+
+
+![](https://visitor-badge.laobi.icu/badge?page_id=CN2924.CN2924)
+
+
+
+[![Github](https://img.shields.io/github/followers/CN2924?label=Follow&style=social)](https://github.com/CN2924)
+
+
+
+
+
+
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=786A73&random=false&width=333&height=45&lines=Social+Links%3A)](https://git.io/typing-svg)
+[![Social:](https://skillicons.dev/icons?i=linkedin,&theme=dark&perline=1)](https://skillicons.dev)
 
 <p align="center">
   <a href="https://skillicons.dev">
