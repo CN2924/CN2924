@@ -86,7 +86,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,c,c++,java,py,pytorch,r,django,discord,eclipse,firebase,git,github,githubactions,gitlabs,matlab,mysql,sqlite,visualstudio,vscode,idea,linkedin" />
   </a>
 </p>
 
