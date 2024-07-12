@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm CHITRANSH DIXIT</h1>
 <h3 align="center">A passionate and aspiring "Data Scientist" from India i.e. BHARAT</h3>
 
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=CN2924.CN2924)
+
 <div align="center"> <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif"> </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cn2924&label=Profile%20views&color=0e75b6&style=flat" alt="cn2924" /> </p>
