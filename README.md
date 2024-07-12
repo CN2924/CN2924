@@ -1,104 +1,55 @@
+<h1 align="center">Hi 👋, I'm CHITRANSH DIXIT</h1>
+<h3 align="center">A passionate and aspiring "Data Scientist" from India i.e. BHARAT</h3>
 
-<h1>
-  HEY THERE
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+<div align="center"> <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif"> </div>
 
-### Everyone!!
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cn2924&label=Profile%20views&color=0e75b6&style=flat" alt="cn2924" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cn2924" alt="cn2924" /></a> </p>
 
+- 🔭 I’m currently working on [https://github.com/CN2924](https://github.com/CN2924)
 
+- 🌱 I’m currently learning **Data Science**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=18&pause=1000&color=09109CE3&random=false&width=330&height=35&lines=%22Only+those+who+dare+to+fail)](https://git.io/typing-svg)
+- 👨‍💻 All of my projects are available at [https://github.com/CN2924](https://github.com/CN2924)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=18&pause=1000&color=09109CE3&random=false&width=330&height=35&lines=greatly+can+ever+achieve)](https://git.io/typing-svg)
+- 💬 Ask me about **Data Science, Python, Machine Learning, Artificial Intelligence**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=18&pause=1000&color=09109CE3&random=false&width=330&height=35&lines=greatly%22.)](https://git.io/typing-svg)
+- 📫 How to reach me **chitransh1424@gmail.com**
 
+- 📄 Know about my experiences [https://drive.google.com/file/d/1x9mp4JDsQL40HrgwvHt4S38cQ4UbUQJR/view?usp=drivesdk](https://drive.google.com/file/d/1x9mp4JDsQL40HrgwvHt4S38cQ4UbUQJR/view?usp=drivesdk)
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/codepen.io/cn2924" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="codepen.io/cn2924" height="30" width="40" /></a>
+<a href="https://dev.to/dev.to/cn_2924" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to/cn_2924" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/linkedin.com/in/chitransh-dixit-2414s/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/chitransh-dixit-2414s/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/chitransh dixit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="chitransh dixit" height="30" width="40" /></a>
+<a href="https://codesandbox.com/codesandbox.io/u/cn2924" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="codesandbox.io/u/cn2924" height="30" width="40" /></a>
+<a href="https://kaggle.com/chit@2179" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="chit@2179" height="30" width="40" /></a>
+<a href="https://instagram.com/@dixit._009" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@dixit._009" height="30" width="40" /></a>
+<a href="https://www.behance.net/behance.net/chitranshdixit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="behance.net/chitranshdixit" height="30" width="40" /></a>
+<a href="https://hashnode.com/hashnode.com/@chit2924" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="hashnode.com/@chit2924" height="30" width="40" /></a>
+<a href="https://medium.com/@chitnsd2924" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@chitnsd2924" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/codechef.com/users/holy_scout_14" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="codechef.com/users/holy_scout_14" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@chitransh1424" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@chitransh1424" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/codeforces.com/profile/chitnsd2924" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="codeforces.com/profile/chitnsd2924" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/chitransh1424" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chitransh1424" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/hackerearth.com/@chitnsd2924" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="hackerearth.com/@chitnsd2924" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/(<chitrash1424>)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="(<chitrash1424>)" height="30" width="40" /></a>
+<a href="https://discord.gg/discord.com/invite/8FRwxR8c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord.com/invite/8FRwxR8c" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt="objectivec" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=18&pause=1000&color=6EC8D0E3&random=false&width=330&height=35&lines=-By+Robert+F.+Kennedy)](https://git.io/typing-svg)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cn2924&show_icons=true&locale=en&layout=compact" alt="cn2924" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cn2924&show_icons=true&locale=en" alt="cn2924" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cn2924&" alt="cn2924" /></p>
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=05780F&random=false&width=450&height=55&lines=It's+me+%22Chitransh+Dixit%22.)](https://git.io/typing-svg)
-
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6506A7&random=false&width=450&height=55&lines=AN+ASPIRING+DATA+SCIENTIST)](https://git.io/typing-svg)
-
-
----
-
-### :hammer_and_wrench: Languages and Tools :
-
-
-
-[![My Skills:](https://skillicons.dev/icons?i=js,html,css,c,c++,java,py,r,django,&theme=dark&perline=4)](https://skillicons.dev)
-
-
-
-
-[![My Skills:](https://skillicons.dev/icons?i=git,github,githubactions,gitlabs,&theme=dark&perline=2)](https://skillicons.dev)
-
-
-
-
-[![My Skills:](https://skillicons.dev/icons?i=visualstudio,vscode,idea,matlab,firebase,&theme=dark&perline=5)](https://skillicons.dev)
-
-
-
-
-[![My Skills:](https://skillicons.dev/icons?i=mysql,sqlite,discord,pytorch,eclipse,&theme=dark&perline=3)](https://skillicons.dev)
-
-
-
-
-[![My Skills:](https://skillicons.dev/icons?i=aws,azure,&theme=dark&perline=3)](https://skillicons.dev)
-
-
-
-
-
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CN2924&theme=tokyonight)
-
----
-
-### :fire: My Stats :
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=CN2924&show_icons=true&theme=tokyonight)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CN2924&theme=dark&background=000000)](https://git.io/streak-stats)
-
-
-![](https://visitor-badge.laobi.icu/badge?page_id=CN2924.CN2924)
-
-![Profle views](https://komarev.com/ghpvc/?username=CN2924)
-
-
-
-[![Github](https://img.shields.io/github/followers/CN2924?label=Follow&style=social)](https://github.com/CN2924)
-
-
-
-
-
-
-
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=786A73&random=false&width=333&height=45&lines=Social+Links%3A)](https://git.io/typing-svg)
-
-
-
-
-
-
-![Social:](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin.com/in/chitransh-dixit-2414s/&logoColor=white&style=for-the-badge)
-
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=CN2924&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
